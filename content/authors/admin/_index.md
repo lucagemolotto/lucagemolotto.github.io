@@ -74,6 +74,7 @@ work:
       - Autonomous Movement
       - Robot Coordination
 
+---
 ## About Me
 
 I'm Luca Gemolotto, a research fellow under the Interreg Italy-Croatia project _Brigantine - Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_ where I work on the development of the vessel.
