@@ -73,5 +73,5 @@ work:
 ---
 ## About Me
 
-I'm Luca Gemolotto, a research fellow under the Interreg Italy-Croatia project _Brigantine - Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_ where I work on the development of the vessel.
+I'm Luca Gemolotto, a research fellow under the Interreg Italy-Croatia project _[Brigantine](https://www.italy-croatia.eu/web/brigantine) - Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_ where I work on the development of the vessel.
 My main interests are Cyber-Physical and Distributed Systems and the application of formal methods to verify them.
