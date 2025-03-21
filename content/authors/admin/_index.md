@@ -56,7 +56,7 @@ work:
     date_start: 2025-02-01
     date_end: ''
     summary: |2-
-      Research fellowship for the Interreg Italy-Croatia project Brigantine _Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_
+      Research fellowship for the Interreg Italy-Croatia project [Brigantine](https://www.italy-croatia.eu/web/brigantine) _Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_
       My contributions to this project included:
       - Hardware and Software Design
       - Embedded Development
