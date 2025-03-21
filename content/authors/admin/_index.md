@@ -47,7 +47,8 @@ education:
     summary: |
       Distributed and Concurrent Systems and Languages track
 
-      Thesis on _A General Purpose Runtime System for Choreographic Programming Languages for Robot Managament_. Supervised by [Prof. Marco Comini](https://example.com) and [Prof. Marino Miculan](https://marino.miculan.org)
+      Thesis on _A General Purpose Runtime System for Choreographic Programming Languages for Robot Managament_. 
+      Supervised by [Prof. Marco Comini](https://example.com) and [Prof. Marino Miculan](https://marino.miculan.org)
 work:
   - position: Research Fellow
     company_name: Università degli Studi di Udine
@@ -55,24 +56,19 @@ work:
     date_start: 2025-02-01
     date_end: ''
     summary: |2-
-      Research fellowships for the Interreg Italy-Croatia project Brigantine _Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_
-      My contribution to this project included:
+      Research fellowship for the Interreg Italy-Croatia project Brigantine _Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_
+      My contributions to this project included:
       - Hardware and Software Design
       - Embedded Development
       - Autonomous Movement
       - Robot Coordination
   - position: Internship
-    company_name: Bruno Kessler Foundation
-    company_url: 'https://fbk.it'
+    company_name: Bruno Kessler Foundation, Formal Methods Unit
+    company_url: 'https://fm.fbk.eu'
     date_start: 2024-03-04
     date_end: 2024-04-04
     summary: |2-
-      Research fellowships for the Interreg Italy-Croatia project Brigantine _Chemico-physical and multispectral Data fusion for Adriatic sea monitoring by autonomous vessel_
-      My contribution to this project included:
-      - Hardware and Software Design
-      - Embedded Development
-      - Autonomous Movement
-      - Robot Coordination
+      During my internship I developed a boolenization wrapper for infinite precision variables to improve their usability in NuRV, a runtime verification and monitor generation tool.
 
 ---
 ## About Me
