@@ -48,7 +48,8 @@ education:
       Distributed and Concurrent Systems and Languages track
 
       Thesis on _A General Purpose Runtime System for Choreographic Programming Languages for Robot Managament_. 
-      Supervised by [Prof. Marco Comini](https://example.com) and [Prof. Marino Miculan](https://marino.miculan.org)
+      
+      Supervised by [Prof. Marco Comini](https://users.dimi.uniud.it/~marco.comini/) and [Prof. Marino Miculan](https://marino.miculan.org)
 work:
   - position: Research Fellow
     company_name: Università degli Studi di Udine
