@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-04-04-paper-title-number-1
 excerpt: 'In this paper we propose a protocol to implement AbU on a general pub/sub middleware.'
-date: 2024-04-04
+date: 2025-04-04
 venue: 'FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems'
 paperurl: 'TBD'
 citation: 'TBD'

@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* February 2025 -- : Research Fellow
-  * University of Udine
+* February 2025 -- : Research Fellow under the Interreg IT-HR project "Brigantine"
+  * University of Udine, [UNIUD Sailing Lab](https://lambda-iot.uniud.it/sailing_lab/website/)
   * Duties includes: Development of the data gathering and autonomous sailing layer of the catamaran and various engineering aspects.
   * Supervisor: Dr. Ivan Scagnetto
 
