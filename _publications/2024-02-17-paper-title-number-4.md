@@ -1,13 +1,15 @@
 ---
-title: "Paper Title Number 4"
+title: "Attribute-based Communication over Pub/Sub: Transactional Coordination for Smart Systems"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2025-04-04-paper-title-number-1
+excerpt: 'In this paper we propose a protocol to implement AbU on a general pub/sub middleware.'
+date: 2024-04-04
+venue: 'FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems'
+paperurl: 'TBD'
+citation: 'TBD'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+IoT and smart systems frequently rely on \emph{publish-subscribe} (pub/sub) middlewares like MQTT or DDS. 
+ However, current coordination solutions often lack formal rigour, posing risks in mission-critical applications, or suffer from excessive complexity, hindering practical deployment and increasing the likelihood of errors.  
+This paper addresses these challenges by integrating AbU, a recently introduced formal model based on \emph{Event-Condition-Action} (ECA) rules and \emph{attribute-based communication}, with standard pub/sub middlewares.  We present a synchronization protocol that leverages pub/sub primitives to implement AbU's transactional communication semantics.  We prove the correctness of this protocol, demonstrating that it accurately reflects the underlying system dynamics. This integration of a formal ECA-based programming model with pub/sub offers a compelling balance between rigorous guarantees and practical applicability for coordinating IoT and smart systems.
