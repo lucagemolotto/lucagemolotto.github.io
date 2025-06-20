@@ -2,7 +2,7 @@
 title: "Workshop proceedings on the Brigantine Project"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2025-06-04-talk-1
+permalink: /talks/emra25
 venue: "EMRA 2025, Rockheim"
 date: 2025-06-04
 location: "Trondheim, Norway"

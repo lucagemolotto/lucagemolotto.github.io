@@ -2,12 +2,12 @@
 title: "Attribute-based Communication over Pub/Sub: Transactional Coordination for Smart Systems"
 collection: publications
 category: conferences
-permalink: /publication/2025-04-04-paper-title-number-1
+permalink: /publication/forte25
 excerpt: "This paper introduces a variant of the two phase commit protocol for implementing AbU's transactional semantics on a generic publisher/subscriber middleware."
-date: 2025-04-04
+date: 2025-06-17
 venue: 'FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems'
-paperurl: 'TBD'
-citation: 'TBD'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-95497-9_6'
+citation: 'Comini, M., Gemolotto, L., Miculan, M. (2025). Attribute-Based Communication over Pub/Sub: Transactional Coordination for Smart Systems. In: Ferreira, C., Mezzina, C.A. (eds) Formal Techniques for Distributed Objects, Components, and Systems. FORTE 2025. Lecture Notes in Computer Science, vol 15732. Springer, Cham. https://doi.org/10.1007/978-3-031-95497-9_6'
 ---
 
 IoT and smart systems frequently rely on _publish-subscribe_ (pub/sub) middlewares like MQTT or DDS. 
